@@ -1,3 +1,11 @@
+/* SimonSays.ino
+*  Arduino project by Joshua Olds & Jake Overall (Team Jankiworks)
+*  This file is the main Arduino project file for the Arbotix-Dynamixel servo based Robot Arm Simon Says game!
+*  Contained within is the complete game logic, sound effects, and arm servo control functions
+*  This project was created as a demo for an upcoming BCW Robotics Course
+*/
+
+
 #include <ax12.h>
 #include <BioloidController.h>
 #include "poses.h"
